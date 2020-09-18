@@ -1,5 +1,5 @@
 {
-  "name": "wumvi/sqlite3dao",
+  "name": "wumvi/worker.base",
   "authors": [
     {
       "name": "Vitaliy Kozlenko",
@@ -13,7 +13,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Wumvi\\Sqlite3Dao\\": "src"
+      "Wumvi\\Worker\\": "src"
     }
   },
   "scripts": {
